@@ -36,3 +36,7 @@ celerybeat-schedule
 
 # Vim
 *.sw[op]
+
+# Secret Keys
+keys.py
+.ipynb*
