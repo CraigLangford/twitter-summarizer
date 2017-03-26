@@ -40,3 +40,6 @@ celerybeat-schedule
 # Secret Keys
 keys.py
 .ipynb*
+
+# Pickle files
+*.p
